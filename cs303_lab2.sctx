@@ -1,0 +1,10 @@
+scchart cs303_lab2 {
+  input bool A
+
+  region HandleA {
+    initial state waitA
+    if A go to doneA
+
+    final state doneA
+  }
+}
