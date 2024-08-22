@@ -1,6 +1,9 @@
-15:16:09 **** Clean-only build of configuration Nios II for project cs303_lab2 ****
-make clean 
-[cs303_lab2 clean complete]
+15:27:57 **** Incremental Build of configuration Nios II for project cs303_lab2 ****
+make all 
+Info: Building C:/Users/narus/Documents/University/PART_III/SEM_2/COMPSYS_303/Labs/Lab2/lab2Remote/cs303_lab2/NIOS_II/cs303_lab2_bsp/
+C:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C C:/Users/narus/Documents/University/PART_III/SEM_2/COMPSYS_303/Labs/Lab2/lab2Remote/cs303_lab2/NIOS_II/cs303_lab2_bsp/
+[BSP build complete]
+[cs303_lab2 build complete]
 
-15:16:09 Build Finished (took 914ms)
+15:28:01 Build Finished (took 3s.886ms)
 
